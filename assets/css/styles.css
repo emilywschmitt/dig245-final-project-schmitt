@@ -3,8 +3,23 @@
 h1 {
   font-family:
   'Lucida Handwriting';
+  text-align: center;
 }
 
  .butt {
  color: 55867D;
 }
+
+button {
+  position: relative;
+}
+
+.center {
+text-align: center;
+}
+
+ #quoteDisplay {
+   font-family:
+   'Lucida Handwriting';
+   text-align: center;
+ }
