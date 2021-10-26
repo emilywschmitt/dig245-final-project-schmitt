@@ -1,13 +1,22 @@
 
 /* css */
+
+
 h1 {
   font-family:
-  'Lucida Handwriting';
+  'American Typewriter';
   text-align: center;
 }
 
+body {
+  background-color: RGB(242,224,197);
+}
+
  .butt {
- color: 55867D;
+ background-color: 006400;
+ width: 150px;
+ height: 40px;
+ font-family: 'American Typewriter' cursive;
 }
 
 button {
@@ -22,4 +31,17 @@ text-align: center;
    font-family:
    'Lucida Handwriting';
    text-align: center;
+ }
+
+ .fix{
+    position:fixed;
+    bottom:0px;
+}
+
+ .typewriter {
+   font-family: 'American Typewriter';
+ }
+
+ .round {
+   border-radius: 25px;
  }

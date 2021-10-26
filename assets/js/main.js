@@ -34,5 +34,3 @@ let quotes = ['"A most notable coward, an infinite and endless liar, an hourly p
  let randomNumber = Math.floor(Math.random() * (quotes.length));
  document.getElementById('quoteDisplay').innerHTML = quotes[randomNumber];
  }
-
- generateQuotes
