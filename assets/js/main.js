@@ -6,7 +6,7 @@ let quotes = ['"A most notable coward, an infinite and endless liar, an hourly p
 '"Go, prick thy face, and over-red thy fear, Thou lily-liver’d boy." <br> Macbeth (Act 5, Scene 3)',
 '“His wit’s as thick as a Tewkesbury mustard.” <br> Henry IV Part 2 (Act 2, Scene 4)',
 '“I am pigeon-liver’d and lack gall.” <br> Hamlet (Act 2, Scene 2)',
-'“I am sick when I do look on thee.“ <br> A Midsummer Night’s Dream (Act 2, Scene 1)',
+'“I am sick when I do look on thee." <br> A Midsummer Night’s Dream (Act 2, Scene 1)',
 '“I must tell you friendly in your ear, sell when you can, you are not for all markets.” <br> As You Like It (Act 3 Scene)',
 '“If thou wilt needs marry, marry a fool; for wise men know well enough what monsters you make of them.” <br> Hamlet (Act 3, Scene 1)',
 '“I’ll beat thee, but I would infect my hands.” <br> Timon of Athens (Act 4, Scene 3)',

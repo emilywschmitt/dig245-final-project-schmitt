@@ -3,8 +3,7 @@
 
 
 h1 {
-  font-family:
-  'American Typewriter';
+font-family:'Zen Antique Soft', serif;
   text-align: center;
 }
 
@@ -12,15 +11,13 @@ body {
   background-color: RGB(242,224,197);
 }
 
- .butt {
- background-color: 006400;
- width: 150px;
- height: 40px;
- font-family: 'American Typewriter' cursive;
-}
-
 button {
   position: relative;
+  background-color: #7393B3;
+  width: 150px;
+  height: 40px;
+  font-family: 'American Typewriter' cursive;
+  color: white;
 }
 
 .center {
@@ -29,18 +26,15 @@ text-align: center;
 
  #quoteDisplay {
    font-family:
-   'Lucida Handwriting';
+   'American Typewriter';
    text-align: center;
+   font-size: 25px;
  }
 
  .fix{
     position:fixed;
     bottom:0px;
 }
-
- .typewriter {
-   font-family: 'American Typewriter';
- }
 
  .round {
    border-radius: 25px;
