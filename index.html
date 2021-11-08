@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>DIG 245 Generative Design</title>
+<title>Davidson Design</title>
 
 <!-- CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
@@ -14,19 +14,47 @@
 <body>
 
 <!-- visible content goes here -->
-<h1 class="col-12">SHAKESPEAREAN INSULTS</h1>
-<div class="center">
+<h1 class="col-12">Welcome to the Davidson Design</h1>
+<p class="center">Are you working on a project and need some help with the design aspects? We can help you with font choices,
+  sizing, color palettes, and more.</p>
+
+<!-- <div class="center">
   <button onclick="generateQuotes()">GENERATE
 </button>
 </div>
 <br>
 
 <div id ="quoteDisplay">
-</div>
+</div> -->
 
- <div class="centerimg row fix">
-<img class="col-md-8" src="assets/img/shakehead.png" alt="the top half of William Shakespeare's head">
-</div>
+ <form>
+   <select id = "type of project">
+     <option>Choose project format</option>
+     <option value="static website">Static Website</option>
+     <option value="blog">Blog</option>
+     <option value="pamphlet">Pamphlet</option>
+   </select>
+ </form>
+
+ <form>
+   <select id = "Your role">
+     <option>What is your role in this project?</option>
+     <option value="teacher">Teacher</option>
+     <option value="student">Student</option>
+     <option value="professional">Professional</option>
+     <option value="creative">Creative</option>
+   </select>
+ </form>
+
+ <form>
+   <select id = "color palette preference">
+     <option>Choose a color palette preference</option>
+     <option value="cool">Cool</option>
+     <option value="hot">Hot</option>
+     <option value="neutral">Neutrals</option>
+     <option value="black and white">Black & White</option>
+   </select>
+ </form>
 
 <!--  helped in coding: https://www.freecodecamp.org/news/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08/ -->
 <!-- javascript -->
